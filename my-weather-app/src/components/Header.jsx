@@ -1,11 +1,17 @@
 import logo from '../logo.svg';
 
-function Header() {
+function Header(props) {
+
+    // const city = "Seoul";
+
+    console.log(props);
+    const myCity = props.cityName;
+
   return (
         <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          helloworld
+          City is {myCity}
         </p>
         <a
           className="App-link"
