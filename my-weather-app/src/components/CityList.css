@@ -5,10 +5,14 @@ body{
     font-weight: bold;
 }
 
+ul{
+    padding-left: 0;
+}
 .citiesListItem{
     list-style: none;
     color: #7aa9b6;
     background-color: rgba(211, 211, 211, 0.2);
-    padding: 12px;
+    padding: 12px 0px;
+    margin: 10px 100px;
     /* word-break: break-all; */
 }
