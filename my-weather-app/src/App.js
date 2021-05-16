@@ -12,15 +12,15 @@ import Home from './pages/Home';
 import Cities from './pages/Cities';
 
 function App() {
-  const city = "Seoul";
+  const city = "Korea";
   return (
     <Router>
       <div className="App">
         <Header region = "KR" cityName = {city} />
         <ul className="navigation">
-          <li><Link to="/">Home</Link></li>
-          <li><Link to="/about">About</Link></li>
-          <li><Link to="/cities">Cities</Link></li>
+          <li><Link to="/" className="hyper">Home</Link></li>
+          <li><Link to="/about" className="hyper">About</Link></li>
+          <li><Link to="/cities" className="hyper">Cities</Link></li>
         </ul>
 
         <Switch>

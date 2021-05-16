@@ -1,4 +1,5 @@
 import logo from '../logo.svg';
+import './Header.css';
 
 function Header(props) {
 
@@ -9,9 +10,10 @@ function Header(props) {
 
   return (
         <header className="App-header">
+            <link rel="preconnect" href="https://fonts.gstatic.com"></link>
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          City is {myCity}
+        <p className='title'>
+          Cities of {myCity}
         </p>
         <a
           className="App-link"
@@ -21,6 +23,15 @@ function Header(props) {
         >
           Learn React
         </a>
+        
+        <link href="https://fonts.googleapis.com/css2?family=Rancho&display=swap" rel="stylesheet"></link>
+        <link rel="preconnect" href="https://fonts.gstatic.com"></link>
+        <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet"></link>
+        <link rel="preconnect" href="https://fonts.gstatic.com"></link>
+        <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet"></link>
+        <link rel="preconnect" href="https://fonts.gstatic.com"></link>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap" rel="stylesheet"></link>
+      
       </header>
   );
 }

@@ -23,11 +23,12 @@ function Cities(){
 
     return (
         <div>
-            <h1>Cities</h1>
-            <p>{API_URL}</p>
-
             <div>
-                {JSON.stringify(cityState)};
+                <h1 className='subtitle'>Cities</h1>
+                <p>{API_URL}</p>
+            </div>
+            <div>
+                {/* {JSON.stringify(cityState)}; */}
             </div>
 
 
