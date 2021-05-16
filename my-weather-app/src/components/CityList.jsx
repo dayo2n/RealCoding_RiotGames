@@ -9,7 +9,7 @@ function CityList(props){
 
             <ul>
                 {cities.map((item, index)=>{
-                    return <li className='citiesListItem' key={index}>{item}</li>
+                    return <p className='citiesListDiv'><li className='citiesListItem' key={index}>{item}</li></p>
                 })}
             </ul>
         </div>

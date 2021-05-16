@@ -25,7 +25,6 @@
 }
 
 .App-link {
-  font-family: 'Righteous', cursive;
   color: #61dafb;
 }
 
@@ -48,7 +47,7 @@
 }
 
 .hyper{
-  font-family: 'Righteous', cursive;
+  /* font-family: 'Righteous', cursive; */
   text-decoration: none;
   color: white;
   background-color: rgba(211, 211, 211, 0.2);
