@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c0df5994-9872-414a-a058-f68896dce030" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/unit-test-1week" />
+  </component>
+  <component name="ProjectId" id="1rWB0iaVWxtVxgBNcb7iahaF0ml" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="JUnit.ChampionTest.shouldTopChampionIsDarius">
+    <configuration name="ChampionTest.shouldChampionCountFive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uppercase-counter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChampionTest" />
+      <option name="METHOD_NAME" value="shouldChampionCountFive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChampionTest.shouldHaveSamePropertyAndValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uppercase-counter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChampionTest" />
+      <option name="METHOD_NAME" value="shouldHaveSamePropertyAndValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChampionTest.shouldHaveSomeChampName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uppercase-counter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChampionTest" />
+      <option name="METHOD_NAME" value="shouldHaveSomeChampName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChampionTest.shouldSupportChampionIsTaric" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uppercase-counter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChampionTest" />
+      <option name="METHOD_NAME" value="shouldSupportChampionIsTaric" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChampionTest.shouldTopChampionIsDarius" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="uppercase-counter" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChampionTest" />
+      <option name="METHOD_NAME" value="shouldTopChampionIsDarius" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ChampionTest.shouldTopChampionIsDarius" />
+        <item itemvalue="JUnit.ChampionTest.shouldHaveSamePropertyAndValue" />
+        <item itemvalue="JUnit.ChampionTest.shouldHaveSomeChampName" />
+        <item itemvalue="JUnit.ChampionTest.shouldSupportChampionIsTaric" />
+        <item itemvalue="JUnit.ChampionTest.shouldChampionCountFive" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0df5994-9872-414a-a058-f68896dce030" name="Default Changelist" comment="" />
+      <created>1619081745436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619081745436</updated>
+      <workItem from="1619081747909" duration="92000" />
+      <workItem from="1619091649487" duration="5580000" />
+      <workItem from="1619097746617" duration="4000" />
+      <workItem from="1619097770058" duration="1428000" />
+      <workItem from="1619411447937" duration="573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
