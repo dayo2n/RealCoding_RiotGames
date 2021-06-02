@@ -1,0 +1,12 @@
+body{
+    background-color: #282D33;
+    color: #247d96;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.citiesListItem{
+    list-style: none;
+    color: #7aa9b6;
+    padding: 4px;
+}
